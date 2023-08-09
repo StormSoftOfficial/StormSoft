@@ -1,5 +1,5 @@
 # StormSoft
-<p align="center" > </p><a href="https://imgur.com/wihujtU"><img src="https://i.imgur.com/wihujtU.jpg" title="source: imgur.com" / ></a> </p>
+<p align="right" > </p><a href="https://imgur.com/wihujtU"><img src="https://i.imgur.com/wihujtU.jpg" title="source: imgur.com" / ></a> </p>
 <h1 align="center">'Games never die. They respawn.' Storm Soft Corporation</h1>
 <h3 align="center">A academic project developed on the subject PP III. Our objective is to develop the best experience for our clients.</h3>
 
