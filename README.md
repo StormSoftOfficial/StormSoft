@@ -10,9 +10,9 @@
 the best experience, and stories that only videogames can convey.</p>
 
 ---
-
-<center><a href="https://imgur.com/wihujtU"><img src="https://i.imgur.com/wihujtU.jpg" title="source: imgur.com" /></a></center>
-
+<div style="text-align: center;">
+  <a href="https://imgur.com/wihujtU"><img src="https://i.imgur.com/wihujtU.jpg" title="source: imgur.com" /></a>
+</div>
 <br>
 
 <p  align="center">
