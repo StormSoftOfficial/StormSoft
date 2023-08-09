@@ -37,11 +37,11 @@ the best experience, and stories that only videogames can convey.</p>
 
   
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25">
-&nbsp;
+ &nbsp;
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25">
-&nbsp;
+ &nbsp;
 <img src="https://img.shields.io/badge/trello-0078D6?style=for-the-badge&logo=trello&logoColor=white" height="25">
-&nbsp; 
+ &nbsp; 
 <img src="https://img.shields.io/badge/rpgmaker-0078D6?style=for-the-badge&logo=rpgmaker&logoColor=white" height="25">
 
 </p>
@@ -70,7 +70,7 @@ the best experience, and stories that only videogames can convey.</p>
 <table>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="center"> </td>
       <td align="center"></td>
       <td align="center"></td>
       <td align="center"></td>
