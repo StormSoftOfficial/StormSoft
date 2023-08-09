@@ -11,7 +11,7 @@
   the best experience, and stories that only videogames can convey.</p>
 
 ---
-<div style="text-align: center">
+<div style="center">
   <a href="https://imgur.com/FGXnSlj"><img src="https://i.imgur.com/FGXnSlj.png" title="source: imgur.com" /></a>
 </div>
 <br>
