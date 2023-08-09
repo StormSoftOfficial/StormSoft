@@ -63,7 +63,6 @@ the best experience, and stories that only videogames can convey.</p>
 <h3> Valores: </h3>
   <p> Act with diligence, transparency and respect, always aiming for the safety and well-being of your customers and our employees.
   You will never compromise your company. </p>
----
 
 ### ➤ Our team:
 
