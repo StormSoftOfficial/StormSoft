@@ -79,35 +79,36 @@ the best experience, and stories that only videogames can convey.
 
 ---
 
-### ➤ Qual a Origem do Nosso Nome?
-Ao iniciarmos a ideia, surgiu uma dúvida: qual seria o nome da nossa empresa? Através de várias tentativas e supostos nomes como Fusion Games e EDUGames, chegamos a conclusão de um nome com fácil pronúncia, CEJJ ("ciêijêijêi" ou apelidado de "cijêi"), que vem das iniciais de cada membro do grupo. Aliás, que tal conhecer nossa equipe?
+### ➤ Mission, Vision and Values?
 
+Mission: 
+  Bring unique, immersive and reflective life-changing experiences, that changes
+  people's view of society and its reality through interactive stories and
+  audiovisual.
+  
+Visão:
+  Develop games that use audiovisual resources to the maximum in order to pass in the best possible way
+  the message and purpose of the work in question that lead people to reflect in their daily lives.
+
+Valores:
+  Act with diligence, transparency and respect, always aiming for the safety and well-being of your customers and our employees.
+  You will never compromise your company.
 ---
 
-### ➤ Nossa Equipe:
-<!---[@Eu-GenioSS](https://github.com/Eu-GenioSS) | [@jancmlima](https://github.com/jeancmlima) | [@JorjScott](https://github.com/JorjScott) | [@cecilia2904](https://github.com/cecilia2904)--->
+### ➤ Our team:
 
 <div align="center">
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/Eu-GenioSS"><img src="https://avatars.githubusercontent.com/u/107368698?v=4" width="100px;" alt="Eugênio Sobral"/><br /><sub><b>Eugênio Sobral</b></sub></a><br /></td>
-      <br>
-      <td align="center"><a href="https://github.com/jeancmlima"><img src="https://avatars.githubusercontent.com/u/125226620?s=400&u=75572cb6825f5e3140326aa304d8a8a68d8ee545&v=4" width="100px;" alt="Jean Lima"/><br /><sub><b>Jean Lima</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/JorjScott"><img src="https://avatars.githubusercontent.com/u/99372702?v=4" width="100px;" alt="Jorge Luiz"/><br /><sub><b>Jorge Luiz</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/cecilia2904"><img src="https://avatars.githubusercontent.com/u/90199276?v=4" width="100px;" alt="Maria Cecília"/><br /><sub><b>Maria Cecília</b></sub></a><br /></td>
+      <td align="center">
+      <td align="center"></td>
+      <td align="center"></td>
+      <td align="center"></td>
     </tr>
   </tbody>
 </table>
 </div>
 
----
-
-<h3 align="center">Fale Conosco:</h3>
-<div align="center">
-
-<a href="https://www.instagram.com/cejj_studios/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:cejjstudios@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
+--- 
 </div>
