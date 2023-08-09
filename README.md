@@ -18,7 +18,8 @@ the best experience, and stories that only videogames can convey.</p>
 <p  align="center">
 
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25"/>
-  </p><p  align="center">
+  </p>
+  <p  align="center">
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="25"/>  
   &nbsp;
@@ -33,15 +34,17 @@ the best experience, and stories that only videogames can convey.</p>
 <img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>  
- </p><palign="center">
+ </p>
+ 
+ <p align="center">
 
   
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="25">
- &nbsp;
+  &nbsp;
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25">
- &nbsp;
+  &nbsp;
 <img src="https://img.shields.io/badge/trello-0078D6?style=for-the-badge&logo=trello&logoColor=white" height="25">
- &nbsp; 
+  &nbsp; 
 <img src="https://img.shields.io/badge/rpgmaker-0078D6?style=for-the-badge&logo=rpgmaker&logoColor=white" height="25">
 
 </p>
@@ -56,11 +59,11 @@ the best experience, and stories that only videogames can convey.</p>
   people's view of society and its reality through interactive stories and
   audiovisual. </p>
   
-<h3> Visão: </h3>
+<h3> Vision: </h3>
  <p> Develop games that use audiovisual resources to the maximum in order to pass in the best possible way
   the message and purpose of the work in question that lead people to reflect in their daily lives. </p>
 
-<h3> Valores: </h3>
+<h3> Values: </h3>
   <p> Act with diligence, transparency and respect, always aiming for the safety and well-being of your customers and our employees.
   You will never compromise your company. </p>
 
