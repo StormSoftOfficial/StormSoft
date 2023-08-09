@@ -1,13 +1,17 @@
-# StormSoft
-### ➤ Quem é a CEJJ Studios? 
+#Storm Soft Corporation
+
+# Gamers never die. They respawn.
+
+### ➤ We are the Storm that is approaching... 
 
 ---
 
-Nós somos uma pequena empresa que nasceu recentemente a partir de uma das cadeiras da matriz curricular do curso Técnico em Informática no IFCE. Estamos engatinhando no caminho para desenvolver um site de jogos para o aprendizado dinâmico de algumas linguagens de programação.
+This corporation was developed recently by the subject of PP III on the technical IT course in IFCE. Our objective is to develop
+the best experience, and stories that only videogames can convey.
 
 ---
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Linguagens e Ferramentas que serão Utilizadas:</b>
+### <a href="https://imgur.com/wihujtU"><img src="https://i.imgur.com/wihujtU.jpg" title="source: imgur.com" /></a>
 
 <br>
 
