@@ -6,12 +6,13 @@
 
 ---
 
-<p align='center'>This corporation was developed recently by the subject of PP III on the technical IT course in IFCE. Our objective is to develop
-the best experience, and stories that only videogames can convey.</p>
+<p align='center'>
+  This corporation was developed recently by the subject of PP III on the technical IT course in IFCE. Our objective is to develop
+  the best experience, and stories that only videogames can convey.</p>
 
 ---
-<div style="text-align: center;">
-  <a href="https://imgur.com/Vbz0VAN"><img src="https://i.imgur.com/Vbz0VAN.jpg" title="source: imgur.com" /></a>
+<div style="text-align: center">
+  <a href="https://imgur.com/FGXnSlj"><img src="https://i.imgur.com/FGXnSlj.png" title="source: imgur.com" /></a>
 </div>
 <br>
 
