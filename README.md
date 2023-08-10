@@ -61,20 +61,11 @@
   <p> Act with diligence, transparency and respect, always aiming for the safety and well-being of your customers and our employees.
   You will never compromise your company. </p>
 
-### ➤ Our team:
+### ➤ Contacts:
 
-<div align="center">
-<table>
-  <tbody>
-    <tr>
-      <td align="center"> </td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-  </tbody>
-</table>
-</div>
+<ol>
+  <li> <b>E-mail:</b> storm.soft.corp@gmail.com</li>
+</ol>
 
 --- 
 </div>
