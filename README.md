@@ -28,11 +28,6 @@
   </p>
   
   <p  align="center">
-
-  
-<img src="https://img.shields.io/badge/react-00000F?style=for-the-badge&logo=reacte&logoColor=white" height="25"/>
-  &nbsp;
-<img src="https://img.shields.io/badge/Firebase-00000F?style=for-the-badge&logo=firebase&logoColor=white" height="25"/>
   &nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="25"/>  
  </p>
@@ -44,8 +39,6 @@
   &nbsp;
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="25">
   &nbsp;
-<img src="https://img.shields.io/badge/trello-0078D6?style=for-the-badge&logo=trello&logoColor=white" height="25">
-  &nbsp; 
 <img src="https://img.shields.io/badge/rpgmaker-0078D6?style=for-the-badge&logo=rpgmaker&logoColor=white" height="25">
 
 </p>
