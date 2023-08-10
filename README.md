@@ -12,13 +12,7 @@
 
 ---
 
-<style>
-  div {
-    display: flex;
-    justify-content: center;
-  }
-</style>
-<div>
+<div style="display: flex; justify-content: center;">
   <a href="https://imgur.com/FGXnSlj"><img src="https://i.imgur.com/FGXnSlj.png" title="source: imgur.com" /></a>
 </div>
 <br>
