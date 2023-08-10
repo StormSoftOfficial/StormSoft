@@ -47,7 +47,7 @@
 
 ---
 
-### ➤ Mission, Vision and Values?
+### ➤ Mission, Vision and Values
 
 <h3> Mission: </h3> 
   <p> Bring unique, immersive and reflective life-changing experiences, that changes
