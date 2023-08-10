@@ -64,9 +64,9 @@
 
 ### ➤ Contacts:
 
-<ol>
+<ul>
   <li> <b>E-mail:</b> storm.soft.corp@gmail.com</li>
-</ol>
+</ul>
 
 --- 
 </div>
